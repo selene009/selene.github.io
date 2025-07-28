@@ -1,3 +1,6 @@
+## RAG Document Splitting Strategies: Enhancing Information Retrieval and Generation Quality
+
+
 With the development of Natural Language Processing (NLP) technology, Retrieval-Augmented Generation (RAG) models have achieved remarkable progress in many fields, especially in tasks such as question answering systems, text generation, and information retrieval. RAG models have gained widespread attention due to their powerful performance and flexibility. By incorporating external documents, RAG models enhance the generated content, improving accuracy and relevance. However, effectively splitting documents and combining appropriate retrieval strategies remains a key factor in enhancing the performance of RAG models. This blog will explore different RAG document splitting strategies and analyze their applications, effects, and pros and cons.
 
 What is RAG (Retrieval-Augmented Generation)?
