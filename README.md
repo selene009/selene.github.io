@@ -352,7 +352,7 @@ Reranker + RAG: The retrieved document chunks are reordered based on relevance s
 Example Generated Content: "Deep learning is a subset of machine learning. CNNs are used for image processing. Reinforcement learning is focused on decision-making tasks."
 
 Final Result Comparison:
-![Example Image](https://github.com/selene009/selene.github.io/blob/main/1753680005233.png)
+![Example Image](https://github.com/selene009/selene.github.io/blob/main/1753681065846.png)
 
 
 Conclusion:
