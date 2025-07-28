@@ -366,3 +366,8 @@ Fusion + RAG: Suitable for handling complex or multi-faceted queries, where comb
 Reranker + RAG: Ensures that the most relevant information is prioritized, making it ideal for tasks that require precise retrieval, such as legal document search or academic paper retrieval.
 
 By combining these strategies with RAG, you can significantly improve the quality of generated content, especially in complex scenarios where personalization, comprehensive information, and precise retrieval are crucial.
+
+## Author
+
+This article was written by Selene 
+
